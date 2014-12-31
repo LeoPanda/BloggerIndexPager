@@ -1,0 +1,3 @@
+# Module bloggerindexpager
+# RPC service class, partial path of RPC policy file
+jp.leopanda.bloggerIndexPager.client.HostGateService, 4BDAAB0669A065D5B8D09B52410875DA.gwt.rpc

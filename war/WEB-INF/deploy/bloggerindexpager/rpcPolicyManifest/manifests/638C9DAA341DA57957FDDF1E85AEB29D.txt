@@ -1,0 +1,2 @@
+serviceClass: jp.leopanda.bloggerIndexPager.client.HostGateService
+path: 4BDAAB0669A065D5B8D09B52410875DA.gwt.rpc
